@@ -6,5 +6,5 @@ import tailwindcss from '@tailwindcss/vite'
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [react(),tailwindcss()],
-  base:"https://JUANTITO77/PRACTICA.github.io/github-pages"
+  base:"https://juantito77.github.io/PRACTICA/"
 })
